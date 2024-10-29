@@ -15,13 +15,15 @@ Autodesk Revit 2020
 
 1. Download the ZIP file of the add-in.   
 
-2. Extract the contents of the ZIP file.  
+2. Right-click on the ZIP file, select Properties, and in the General tab, check Unblock if available. After extracting, also check and unblock the Parameters.dll file in the same way.
 
-3. Copy the `Parameters.dll` and `Parameters.addin` file to the add-ins Revit folder  
+3. Extract the contents of the ZIP file.  
+
+4. Copy the `Parameters.dll` and `Parameters.addin` file to the add-ins Revit folder  
 	Typically located at:  
 	C:\Users\<User>\AppData\Roaming\Autodesk\Revit\Addins\2020  
 
-4. Start Revit. 
+5. Start Revit. 
 
 ## Usage  
 1. Open your project in Revit. 
