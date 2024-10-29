@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Parameters</Name>
+		<Assembly>Parameters.dll</Assembly>
+		<AddInId>
+			94ACCEF8-0DC5-477E-8C2E-6B86E6C1A3A7
+		</AddInId>
+		<FullClassName>Parameters.ExternalApplication</FullClassName>
+		<Text>Parameters</Text>
+		<Description>Parameters Tools</Description>
+		<VendorId>Nicolas Calcagno</VendorId>
+		<VendorDescription>Nicolas Calcagno</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
